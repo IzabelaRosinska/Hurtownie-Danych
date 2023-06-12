@@ -1,4 +1,7 @@
 # Hurtownie Danych
+
+KPI - agresja piłkarzy
+
 Projekt dotyczący wystąpień piłkarzy w meczach w rozgrywkach eurpejskich.
 
 Hurtownia danych
@@ -15,3 +18,4 @@ KPI - agresja piłkarzy
 KPI - agresja kibiców
 KPI - agresja coachów
 KPI - liczba uścisków dłoni pomiędzy piłkarzami
+
