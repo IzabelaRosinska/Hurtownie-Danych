@@ -10,3 +10,8 @@ DIM_TIME - wymiar czasu
 DIM_PLAYER - wymiar piłkarza
 DIM_CLUB - klub piłkarski
 DIM_COMPETITION - konkurs
+
+KPI - agresja piłkarzy
+KPI - agresja kibiców
+KPI - agresja coachów
+KPI - liczba uścisków dłoni pomiędzy piłkarzami
